@@ -1,4 +1,4 @@
-#Check My live website hosted on netlify at
+##Check My live website hosted on netlify at
 https://rushikeshresortapp.netlify.app/
 
 # Getting Started with Create React App
